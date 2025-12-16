@@ -243,8 +243,8 @@ elif options == "📐 Factor Analysis":
 
     st.info("""
     **Interpretation:**
-    - Factor 1 → Weather Severity  
-    - Factor 2 → Traffic Flow  
+    - Factor 1 → Traffic Flow 
+    - Factor 2 → Weather Severity
     - Factor 3 → Risk & Safety  
     """)
 
@@ -253,3 +253,4 @@ elif options == "📐 Factor Analysis":
 # ===============================
 st.sidebar.markdown("---")
 st.sidebar.info("Big Data Final Project – 2024")
+
